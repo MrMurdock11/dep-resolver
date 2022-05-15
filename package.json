@@ -1,0 +1,23 @@
+{
+	"name": "dep-resolver",
+	"version": "1.0.0",
+	"description": "A module which help to resolve dependencies.",
+	"main": "index.js",
+	"scripts": {
+		"start": "ts-node src/index.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrMurdock11/dep-resolver.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MrMurdock11/dep-resolver/issues"
+	},
+	"homepage": "https://github.com/MrMurdock11/dep-resolver#readme",
+	"devDependencies": {
+		"ts-node": "10.7.0"
+	}
+}
